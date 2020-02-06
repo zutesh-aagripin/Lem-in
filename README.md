@@ -14,3 +14,5 @@ First run Make.
 Then, the project can be visualized (if your machine allows for the visualizer to work) by running the following:
 
 ./generator --flow-thousand | ./lem-in | ./bonus/visual
+
+Then press and hold Enter.
